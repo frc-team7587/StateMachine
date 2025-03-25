@@ -1,0 +1,6 @@
+# Ignore the IntelliJ project configuration
+/.idea
+
+# Ignore class files &c.
+/target/
+
